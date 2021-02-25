@@ -24,23 +24,33 @@ In this moment I am studying for the exams prepararion, it is so hard... I hope 
 
 <h4>What has inside CompTia Security+?</h4>
 
-- ATTACKS, THREATS AND VULNERABILITIES: 
+- **Attacks, Threats and Vulnerabilities**: Focusing on more threats, attacks, and vulnerabilities on the Internet from newer custom devices that must be mitigated, such as IoT and embedded devices, newer DDoS attacks, and social engineering attacks based on current events.
 - **Architecture and Design**: Includes coverage of enterprise environments and reliance on the cloud, which is growing quickly as organizations transition to hybrid networks.
-- Implementation
-- Operations and Incident Response
-- Governance, Risk and Compliance
+- **Implementation**: Expanded to focus on administering identity, access management, PKI, basic cryptography, wireless, and end-to-end security.
+- **Operations and Incident Response**: Covering organizational security assessment and incident response procedures, such as basic threat detection, risk mitigation techniques, security controls, and basic digital forensics.
+- **Governance, Risk and Compliance**: Expanded to support organizational risk management and compliance to regulations, such as PCI-DSS, SOX, HIPAA, GDPR, FISMA, NIST, and CCPA.
 
 ---
 
-What has inside Ethical Hacking Associate?
+<h4>What has inside Ethical Hacking Associate?</h4>
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+This course reflects EC-Council’s true model, “To Beat A Hacker… You Need To Think Like A Hacker…” and is was built to also prepare individuals for the globally recognized Certified Ethical Hacker (CEH) certification
+
+- Information Security Fundamentals
+- Networking Fundamentals
+- Secure Network Protocols
+- Information Security Threats and Attacks
+- Social Engineering
+- Hacking Cycle
+- Identification, Authentication, and Authorization
+- Cryptography
+- Firewalls
+- Intrusion Detection System
+- Data Backup
+- Virtual Private Network
+- Wireless Network Security
+- Web Security
+- Ethical Hacking and Pen Testing
 
 ---
 
