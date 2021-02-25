@@ -2,7 +2,9 @@
 title: ":computer: Mastering Cyber Security"
 layout: post
 date: 2021-02-01 00:00
-tag: comptia, ec-council
+tag: 
+- comptia
+- ec-council
 image: #url img
 headerImage: true
 projects: true
