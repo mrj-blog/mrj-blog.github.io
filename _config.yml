@@ -41,7 +41,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: Mr-J-Blog
+github: mr-j-personalfinance
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -55,7 +55,7 @@ email: jurion.alternative@yahoo.com
 authors:
   mrj:
     name: Mr. J
-    bio: A blog about personal finance and stuff related
+    bio: Welcome dear reader! 
     external-image: false
     picture: assets/images/profile.jpg
     twitter:
