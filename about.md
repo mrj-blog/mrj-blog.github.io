@@ -47,9 +47,9 @@ layout: page
 
 <h4>Plans & Goals</h4>
 <p>
-    I will do my best to become a programmer and a trader, see below:
+    I will do my best to become a good time and assets manager, see below:
     <ul>
-        <li><a href="/projects.html">My Project</a></li>
-        <li><a href="/blog.html">My Blog</a></li>
+        <li><a href="https://mr-j-personalfinance.github.io/projects/">My Project</a></li>
+        <li><a href="https://mr-j-personalfinance.github.io/blog/">My Blog</a></li>
     </ul>
 </p>
