@@ -34,6 +34,16 @@ What has inside CompTia Security+?
 
 What has inside Ethical Hacking Associate?
 
+- Gulp
+- BrowserSync
+- Stylus
+- SVG
+- Travis
+- No JS
+- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+
+---
+
 
 [Check it out](https://sergiokopplin.github.io/indigo/) here.
 If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
