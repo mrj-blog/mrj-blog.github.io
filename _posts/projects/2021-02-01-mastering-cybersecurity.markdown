@@ -1,5 +1,5 @@
 ---
-title: ":computer: Mastering Cyber Security"
+title: "Mastering Cyber Security - In Progress"
 layout: post
 date: 2021-02-01 00:00
 tag: 

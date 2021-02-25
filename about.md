@@ -29,7 +29,7 @@ layout: page
 <h4>I introduce something about my programming life</h4>
 <p>
     My first programming language was C# for Microsoft system, I am mainly coding services and terminal application,
-    something I had web project using ASP.NET always based to C#. Obviously I am known to use supporting language like
+    something I had web project using ASP.NET always based to C#. Obviously I also know to use supporting languages like
     HTML, CSS, SQL, etc...
     OK, that's enough... this is a blog about my projects and it is not a resume xD
 </p>

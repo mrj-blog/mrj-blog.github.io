@@ -16,10 +16,6 @@
     <b><a href="README.md#how-to">How to</a></b>
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
-
 ## What has inside
 
 - [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
@@ -41,26 +37,7 @@ If you want to test locally on your machine, do the following steps also:
 3. Enter the cloned folder via terminal and run `bundle install`
 4. Then run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
 5. Open it in your browser: `http://localhost:4000`
-6. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
-
-## Settings
-
-You must fill some informations on `_config.yml` to customize your site.
-
-```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
-...
-
-and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
-```
 
 ## How To?
 
 Check the [FAQ](./FAQ.md) if you have any doubt or problem.
-
----
-## License
-
-[MIT](https://kopplin.mit-license.org/) License
