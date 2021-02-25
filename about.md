@@ -26,7 +26,7 @@ layout: page
     :D
 </p>
 
-<h5>I introduce something about my programming life</h5>
+<h4>I introduce something about my programming life</h4>
 <p>
     My first programming language was C# for Microsoft system, I am mainly coding services and terminal application,
     something I had web project using ASP.NET always based to C#. Obviously I am known to use supporting language like
@@ -34,7 +34,7 @@ layout: page
     OK, that's enough... this is a blog about my projects and it is not a resume xD
 </p>
 
-<h5>Trading adventure can not miss</h5>
+<h4>Trading adventure can not miss</h4>
 <p>
     Now for a speech, I think I studied a lot about anything about investment and trading I could find into the
     Internet, but more I studied more I got confused.
