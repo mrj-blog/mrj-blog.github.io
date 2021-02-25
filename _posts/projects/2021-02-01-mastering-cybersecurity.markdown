@@ -18,19 +18,17 @@ externalLink: false
 ![Screenshot](https://cdn-res.keymedia.com/cms/images/us/036/0248_637317913147707069.jpg)
 
 In 2020 I studied and followed a course to obtain certification for [CompTia Security+](https://www.comptia.org/certifications/security) and [Ec-Council Ethical Hacking Associate](https://www.eccouncil.org/eccouncil-associate-programs-eha-cfa/).
-In this moment I am studying for the exams prepararion, it is hard...
+In this moment I am studying for the exams prepararion, it is so hard... I hope to be able to do the exams before the summer.
 
 ---
 
-What has inside CompTia Security+?
+<h4>What has inside CompTia Security+?</h4>
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+- ATTACKS, THREATS AND VULNERABILITIES: 
+- **Architecture and Design**: Includes coverage of enterprise environments and reliance on the cloud, which is growing quickly as organizations transition to hybrid networks.
+- Implementation
+- Operations and Incident Response
+- Governance, Risk and Compliance
 
 ---
 
