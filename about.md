@@ -6,7 +6,7 @@ layout: page
 
 <p>Welcome here!</p>
 <p>
-    I will talk about in this blog something like <b>Personal Finance</b>, <b>Trading & investment</b>, <b>Computer
+    I will talk about topics on <b>Personal Finance</b>, <b>Trading & investment</b>, <b>Computer
         Science</b> and much more.
 </p>
 
@@ -43,4 +43,13 @@ layout: page
     trading. Another thing about the course/community that it helped me was Warrior Trading, I saw many video of Ross
     Cameron, he is an incredible trader, for me is the top and I discovered that Roberto is also a Warrior Trading
     mentor. Wow.
+</p>
+
+<h4>Plans & Goals</h4>
+<p>
+    I will do my best to become a programmer and a trader, see below:
+    <ul>
+        <li><a href="/projects.html">My Project</a></li>
+        <li><a href="/blog.html">My Blog</a></li>
+    </ul>
 </p>
