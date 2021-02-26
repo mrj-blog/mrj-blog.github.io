@@ -52,8 +52,3 @@ This course reflects EC-Council’s true model, “To Beat A Hacker… You Need 
 - Web Security
 - Ethical Hacking and Pen Testing
 
----
-
-
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
