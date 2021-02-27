@@ -19,38 +19,17 @@ externalLink: false
 
 ![Screenshot](http://www.itisandria.edu.it/images/immagini/ccna.png)
 
-In 2020 I studied and followed a course to obtain certification for [CompTia Security+](https://www.comptia.org/certifications/security) and [Ec-Council Ethical Hacking Associate](https://www.eccouncil.org/eccouncil-associate-programs-eha-cfa/).
-In this moment I am studying for the exams prepararion, it is so hard... I hope to be able to do the exams before the summer.
+Now, this year I will start the course for [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) and the exam preparation. The networking can be an important thing for a Software Developer about Server and Services. It can be a good help.
 
 ---
 
-<h4>What has inside CompTia Security+?</h4>
+<h4>What has inside Cisco CCNA?</h4>
 
-- **Attacks, Threats and Vulnerabilities**: Focusing on more threats, attacks, and vulnerabilities on the Internet from newer custom devices that must be mitigated, such as IoT and embedded devices, newer DDoS attacks, and social engineering attacks based on current events.
-- **Architecture and Design**: Includes coverage of enterprise environments and reliance on the cloud, which is growing quickly as organizations transition to hybrid networks.
-- **Implementation**: Expanded to focus on administering identity, access management, PKI, basic cryptography, wireless, and end-to-end security.
-- **Operations and Incident Response**: Covering organizational security assessment and incident response procedures, such as basic threat detection, risk mitigation techniques, security controls, and basic digital forensics.
-- **Governance, Risk and Compliance**: Expanded to support organizational risk management and compliance to regulations, such as PCI-DSS, SOX, HIPAA, GDPR, FISMA, NIST, and CCPA.
+The CCNA certification validates your skills and knowledge in network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation and programmability.
 
----
-
-<h4>What has inside Ethical Hacking Associate?</h4>
-
-This course reflects EC-Council’s true model, “To Beat A Hacker… You Need To Think Like A Hacker…” and is was built to also prepare individuals for the globally recognized Certified Ethical Hacker (CEH) certification
-
-- Information Security Fundamentals
-- Networking Fundamentals
-- Secure Network Protocols
-- Information Security Threats and Attacks
-- Social Engineering
-- Hacking Cycle
-- Identification, Authentication, and Authorization
-- Cryptography
-- Firewalls
-- Intrusion Detection System
-- Data Backup
-- Virtual Private Network
-- Wireless Network Security
-- Web Security
-- Ethical Hacking and Pen Testing
+- Network fondamentals
+- Routing
+- Network devices Security
+- Thoubleshooting
+- WAN Technologies
 
