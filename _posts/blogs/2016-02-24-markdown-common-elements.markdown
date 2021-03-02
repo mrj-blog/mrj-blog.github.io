@@ -1,17 +1,16 @@
 ---
-title: "Coding is Simple"
+title: "Markdown Common Elements"
 layout: post
-date: 2021-03-01 00:00
+date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- coding
-- software
-- programming
+- markdown
+- elements
 star: true
 category: blog
-author: mr.j
-description: 
+author: johndoe
+description: Markdown summary with different options
 ---
 
 ## Basic formatting
