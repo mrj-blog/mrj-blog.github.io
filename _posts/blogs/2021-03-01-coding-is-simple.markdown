@@ -35,5 +35,14 @@ Mastering coding programming is proven to increase your communication, and analo
 ### Where should one begin?
 In Internet we have a lot of website where we can begin learning coding for free or with payments: 
 
-1. 
+1. [Code Academy](https://www.codecademy.com/)
+2. [Free Code Camp](https://www.freecodecamp.org/)
+3. [W3schools](https://www.w3schools.com/)
+4. [Coursera](https://www.coursera.org/)
+5. [Khan Academy](https://www.khanacademy.org/)
+6. [edX](https://www.edx.org/)
 
+and more others...
+
+### Conclusion
+Coding is a necessary skills in today's world, that's not hard. Anyone can learn it, but depends of you if you want to coding like pro or a rookie :)
