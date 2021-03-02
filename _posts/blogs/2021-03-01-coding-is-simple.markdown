@@ -23,7 +23,7 @@ These binary codes form the machine code, with each number directing the machine
 Programming languages make the binary code language of the computers more manageable by translating our comands into binary code.
 Coding means using the programming lanvuage to get the computer to behave as desired.
 
-A JS Example
+A JS Example<br>
 Press F12 in your browser, into Console write this: 
 
 {% highlight js %}
