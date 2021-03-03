@@ -1,5 +1,5 @@
 ---
-title: "Become a Day Trader :on:"
+title: "Become a Day Trader - in progress"
 layout: post
 date: 2021-01-01 00:00
 tag: 

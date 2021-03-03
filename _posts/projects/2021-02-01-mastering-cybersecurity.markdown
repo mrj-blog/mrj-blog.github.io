@@ -1,5 +1,5 @@
 ---
-title: "Mastering Cyber Security :on:"
+title: "Mastering Cyber Security - in progress"
 layout: post
 date: 2021-02-01 00:00
 tag: 
