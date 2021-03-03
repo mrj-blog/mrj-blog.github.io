@@ -23,7 +23,7 @@ These binary codes form the machine code, with each number directing the machine
 Programming languages make the binary code language of the computers more manageable by translating our comands into binary code.
 Coding means using the programming lanvuage to get the computer to behave as desired.
 
-A JS Example<br>
+A JavaScript Example<br>
 Press F12 in your browser, into Console write this: 
 
 {% highlight js %}
@@ -31,7 +31,7 @@ alert('Hello world')
 {% endhighlight %}
 
 ### What are the advantages of coding?
-Mastering coding programming is proven to increase your communication, and analofical skills, among other things. The benefits of coding are below:
+Mastering coding programming is proven to increase your communication, and analogical skills, among other things. The benefits of coding are below:
 
 * Understand the world around you
 * Problem solving

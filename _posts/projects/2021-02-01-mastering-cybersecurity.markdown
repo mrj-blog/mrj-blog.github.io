@@ -22,7 +22,7 @@ In this moment I am studying for the exams prepararion, it is so hard... I hope 
 
 ---
 
-<h4>What has inside CompTia Security+?</h4>
+### What has inside CompTia Security+?
 
 - **Attacks, Threats and Vulnerabilities**: Focusing on more threats, attacks, and vulnerabilities on the Internet from newer custom devices that must be mitigated, such as IoT and embedded devices, newer DDoS attacks, and social engineering attacks based on current events.
 - **Architecture and Design**: Includes coverage of enterprise environments and reliance on the cloud, which is growing quickly as organizations transition to hybrid networks.
@@ -32,7 +32,7 @@ In this moment I am studying for the exams prepararion, it is so hard... I hope 
 
 ---
 
-<h4>What has inside Ethical Hacking Associate?</h4>
+### What has inside Ethical Hacking Associate?
 
 This course reflects EC-Council’s true model, “To Beat A Hacker… You Need To Think Like A Hacker…” and is was built to also prepare individuals for the globally recognized Certified Ethical Hacker (CEH) certification
 

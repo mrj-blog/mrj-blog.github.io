@@ -23,16 +23,15 @@ Next step, I decided to buy a good course and probably was one of the best thing
 I studied very hard and I tried with months of paper trading, finally I will start with real broker.
 
 ---
-
-<h4>What is Day Trading?</h4>
+### What is Day Trading?
 When a day trader places a trade they are looking to capitalize on a stocks price movement on the same day they place the trade and are not looking to hold a trade overnight.
 This is called day trading. So for instance, if a trader buys shares of Facebook ($FB) on Monday, they would have to sell it on the same day for it to be considered a day trade.
 
-<h4>Day Trading Goals</h4>
+### Day Trading Goals
 The goal of a intraday trading is to take advantage of the short-term price inefficiencies by either buying low and selling high or shorting high and buying to cover at a lower price. There are a ton of different trading strategies that traders use to do this.
 Some strategies can be more riskier than others and require you to act very quickly while others can be slower and last most of the day. It takes time to develop your own strategies that best fit your personality and is why it is best to paper trade while learning before risking real capital.
 
-<h4>Rules For Beginners</h4>
+### Rules For Beginners
 Having a set of day trading rules is a crucial first step for anyone looking to get into day trading. These rules will be your guidelines to follow as you build your account and learn the intricacies of the markets. Rules to always follow:
 
 - Use limit orders
@@ -40,5 +39,5 @@ Having a set of day trading rules is a crucial first step for anyone looking to 
 - Trade with a proven strategy
 - Have max losses set for each trade and each day
 
-<h4>Build a Daily Watchlist</h4>
+### Build a Daily Watchlist
 A watchlist is simply a short-list of stocks that meet or might meet your criteria for a profitable trading setup. 
