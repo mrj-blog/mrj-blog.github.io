@@ -49,7 +49,7 @@ layout: page
 <p>
     I will do my best to become a good time and assets manager, see below:
     <ul>
-        <li><a href="https://mr-j-personalfinance.github.io/projects/">My Project</a></li>
-        <li><a href="https://mr-j-personalfinance.github.io/blog/">My Blog</a></li>
+        <li><a href="https://kindofstuff.github.io/projects/">My Project</a></li>
+        <li><a href="https://kindofstuff.github.io/blog/">My Blog</a></li>
     </ul>
 </p>
