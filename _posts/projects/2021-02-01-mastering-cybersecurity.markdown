@@ -1,5 +1,5 @@
 ---
-title: "Mastering Cyber Security - :red_circle:In progress:red_circle:"
+title: "Mastering Cyber Security :on:"
 layout: post
 date: 2021-02-01 00:00
 tag: 
