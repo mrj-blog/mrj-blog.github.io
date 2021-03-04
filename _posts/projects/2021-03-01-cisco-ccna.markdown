@@ -1,5 +1,5 @@
 ---
-title: "Cisco CCNA - In Progress"
+title: "Cisco CCNA - soon"
 layout: post
 date: 2021-03-01 00:00
 tag: 
@@ -19,7 +19,7 @@ externalLink: false
 
 ![Screenshot](http://www.itisandria.edu.it/images/immagini/ccna.png)
 
-Now, this year I will start the course for [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) and the exam preparation. The networking can be an important thing for a Software Developer about Server and Services. It can be a good help.
+This year I will start the course for [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) and the exam preparation. The networking can be an important thing for a Software Developer about Server and Services. It can be helpful.
 
 ---
 
