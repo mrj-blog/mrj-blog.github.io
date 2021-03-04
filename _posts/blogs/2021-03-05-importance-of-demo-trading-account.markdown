@@ -10,7 +10,6 @@ tag:
 - broker
 - risk
 - strategies
-star: true
 category: blog
 author: mr.j
 description: 
