@@ -18,7 +18,7 @@ externalLink: false
 
 ![Screenshot](https://www.viverepesaro.it/upload/2019_11/530994_CfakepathTrading.jpg)
 
-In the end of 2020, I started to study the market and investment. At first I read anything about forex, crypto currency and stock market on Internt.
+In the end of 2020, I started to study the market and investment. At first I read anything about forex, crypto currency and stock market on Internet.
 Next step, I decided to buy a good course and probably was one of the best things I ever bought. I bought an adventure with an awesome coach and a good community.
 I studied very hard and I tried with months of paper trading, finally I will start with real broker.
 

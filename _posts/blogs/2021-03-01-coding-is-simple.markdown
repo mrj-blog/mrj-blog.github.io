@@ -8,7 +8,6 @@ tag:
 - coding
 - software
 - programming
-star: true
 category: blog
 author: mr.j
 description: 
