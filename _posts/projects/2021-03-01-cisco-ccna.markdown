@@ -6,7 +6,7 @@ tag:
 - cisco
 - ccna
 - networking
-- rooting
+- routing
 image: #url img
 headerImage: true
 projects: true
@@ -17,7 +17,7 @@ author: mr.j
 externalLink: false
 ---
 
-![Screenshot](http://www.itisandria.edu.it/images/immagini/ccna.png)
+![Screenshot](https://www.marconi-galletti.it/wp/wp-content/uploads/2020/01/cisco-systems-1200x900-1-1200x600.jpg)
 
 This year I will start the course for [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) and the exam preparation. The networking can be an important thing for a Software Developer about Server and Services. It can be helpful.
 
