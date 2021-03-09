@@ -31,4 +31,4 @@ A Demo Account must have this characteristics:
 Paper Trading is [TradingView's](https://www.tradingview.com/) Demo Account, personally I think this platform is awesome, you can setting capital and commission values with a high customization level.
 
 ### Conclusion
-Coding is a necessary skills in today's world, that's not hard. Anyone can learn it, but depends of you if you want to coding like pro or a rookie :)
+Demo Account is necessary to understand the practice before you start with real money and probably loss them. Remember this, do not start it if you cannot constantly in profit.
