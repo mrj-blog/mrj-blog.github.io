@@ -47,7 +47,6 @@ layout: page
 
 <h4>Plans & Goals</h4>
 <p>
-    I will do my best to become a good time and assets manager, see below:
     <ul>
         <li><a href="https://kindofstuff.github.io/projects/">My Project</a></li>
         <li><a href="https://kindofstuff.github.io/blog/">My Blog</a></li>
